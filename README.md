@@ -3,7 +3,7 @@
 A small MATLAB script that compresses an image utilizing Singular Value Decomposition
 It works on colored images by splitting the red, green and blue color channels into their own separate matrices
 
-## How To Use
+# How To Use
 * First clone the repository
 ```bash
 git clone https://github.com/alexanderepstein/Image-Compression
@@ -12,6 +12,9 @@ git clone https://github.com/alexanderepstein/Image-Compression
 * Open ImageTest.m and run it
 ###### To run this on your own image just add your image file to the root MATLAB folder and change the imagefile variable in ImageTest.m to the name of your file.
 ###### This script will take a long time to run, it was used just to display the rgbSVD.m script in a way that provides data about the percent error based on how many singular values are used.
+
+# Example Output
+![SingularValuesImages](https://github.com/alexanderepstein/Image-Compression/blob/master/nature%20singulars.jpg)![SingularValuesError](https://github.com/alexanderepstein/Image-Compression/blob/master/nature%20error.jpg)
 
 # License
 MIT License
