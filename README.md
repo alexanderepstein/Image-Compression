@@ -14,7 +14,15 @@ git clone https://github.com/alexanderepstein/Image-Compression
 ###### This script will take a long time to run, it was used just to display the rgbSVD.m script in a way that provides data about the percent error based on how many singular values are used.
 
 # Example Output
-![SingularValuesImages](https://github.com/alexanderepstein/Image-Compression/blob/master/nature%20singulars.jpg)![SingularValuesError](https://github.com/alexanderepstein/Image-Compression/blob/master/nature%20error.jpg)
+<table>
+<tr>
+<td>
+<img src="https://github.com/alexanderepstein/Image-Compression/blob/master/nature%20singulars.jpg">
+</td>
+<td>
+<img src="https://github.com/alexanderepstein/Image-Compression/blob/master/nature%20error.jpg">
+</tr>
+</table> 
 
 # License
 MIT License
