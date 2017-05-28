@@ -22,8 +22,17 @@ git clone https://github.com/alexanderepstein/Image-Compression
 <td>
 <img src="https://github.com/alexanderepstein/Image-Compression/blob/master/nature%20error.jpg">
 </tr>
+
+<tr>
+<td>
+<img src="https://github.com/alexanderepstein/Image-Compression/blob/master/jimi%20singulars.jpg">
+</td>
+<td>
+<img src="https://github.com/alexanderepstein/Image-Compression/blob/master/jimi%20error.jpg">
+</tr>
 </table> 
 
+![Paper](https://github.com/alexanderepstein/Image-Compression/blob/master/SVD.png)
 # License
 MIT License
 
