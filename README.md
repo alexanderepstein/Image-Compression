@@ -32,7 +32,10 @@ git clone https://github.com/alexanderepstein/Image-Compression
 </tr>
 </table> 
 
+# Further Reading
 ![Paper](https://github.com/alexanderepstein/Image-Compression/blob/master/SVD.png)
+
+
 # License
 MIT License
 
